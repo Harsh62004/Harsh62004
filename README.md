@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Mungara</h1>
-<!--<h3 align="center">A passionate developer from India</h3>-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=435&lines=Tech+Enthusiast;Full+Stack+Developer;Upcoming+Engineer)](https://github.com/Harsh62004/Harsh62004)
+
 <p>
   I am pursuing Btech ICT at DA-IICT. I am currently in 2nd year. I am well versed with programming languages like C, C++ etc and scripting languages like Python, Javascript etc.
   
