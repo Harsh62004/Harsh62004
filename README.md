@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=535&lines=Tech+Enthusiast;Full+Stack+Developer;Exploring+Blockchain+Technology;Upcoming+Engineer)](https://github.com/Harsh62004/Harsh62004)
 
 <p>
-  I am pursuing Btech ICT at DA-IICT. I am currently in 2nd year. I am well versed with programming languages like C, C++ etc and scripting languages like Python, Javascript etc.
-  
+  I am a pre-final student at DA-IICT. I am well versed with programming languages like C, C++ etc and scripting languages like Python, Javascript etc.
+
   
 </p>
 <h3 align="left">Languages and Tools:</h3>
