@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Mungara</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=535&lines=Tech+Enthusiast;Full+Stack+Developer;Upcoming+Engineer)](https://github.com/Harsh62004/Harsh62004)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=535&lines=Tech+Enthusiast;Analyst;ICT+Engineer;Make+More+Smiles)](https://github.com/Harsh62004/Harsh62004)
 
 <p>
-  I am a pre-final student at DA-IICT. I am well versed with programming languages like C, C++ etc and scripting languages like Python, Javascript etc.
+  I am a Data Analyst at Colgate Plamolive India Limited. I ususally work on automating repetetive tasks by using Python and make peoples lives easier.
 
   
 </p>
